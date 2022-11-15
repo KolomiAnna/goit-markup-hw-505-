@@ -87,8 +87,11 @@ img {
   color: var(--link-color);
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 74a1f05f29afd93952b8de99ef858f6d0d3e7162
 /* Навігація */
 .link {
   font-weight: 500;
@@ -150,12 +153,18 @@ img {
 
 /* Меню */
 
+<<<<<<< HEAD
 
 
 
 .list.menu {
   align-items: center;
   gap: 50px;
+=======
+.list.menu {
+  align-items: center;
+  gap: 30px;
+>>>>>>> 74a1f05f29afd93952b8de99ef858f6d0d3e7162
 }
 
 .link.studia,
@@ -316,6 +325,7 @@ img {
 }
 
 .activity-text {
+<<<<<<< HEAD
   display: flex;
   justify-content: center;
   height: 70px;
@@ -328,6 +338,19 @@ img {
 
   width: 100%;
  
+=======
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding-top: 27px;
+  padding-bottom: 27px;
+  width: 100%;
+  /* padding-left: auto;
+	padding-right: auto; */
+>>>>>>> 74a1f05f29afd93952b8de99ef858f6d0d3e7162
 
   color: var(--primary-bg-color);
   background-color: rgba(47, 48, 58, 0.8);
@@ -362,7 +385,11 @@ img {
 .section-title.characteristic,
 .section-title.name {
   margin-bottom: 10px;
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> 74a1f05f29afd93952b8de99ef858f6d0d3e7162
 
 /* Наша команда */
 
@@ -489,9 +516,15 @@ fill: #FFFFFF;} */
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+<<<<<<< HEAD
 
 .clients-link:hover,
 .clients-link:focus{color: var(--link-color);
+=======
+.clients-icons:hover,
+.clients-icons:focus {
+  color: var(--link-color);
+>>>>>>> 74a1f05f29afd93952b8de99ef858f6d0d3e7162
 }
 
 /* ----------ПІДВАЛ-----------*/
@@ -750,6 +783,10 @@ fill: #FFFFFF;} */
   transform: translateY(100%);
 
   transition: transform 250ms;
+<<<<<<< HEAD
+=======
+  border: 1px solid #000000;
+>>>>>>> 74a1f05f29afd93952b8de99ef858f6d0d3e7162
 }
 
 .overlay-text {
